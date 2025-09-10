@@ -1,0 +1,6 @@
+string=input("Enter the string:")
+stringnew=string.strip()
+print(stringnew[:5])
+print(stringnew[-3:])
+print(stringnew[::-1])
+print(stringnew[::2])
